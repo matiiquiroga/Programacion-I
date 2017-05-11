@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1494516005 source:c:\users\alumno\desktop\quirogamatias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494516047 c:\users\alumno\desktop\quirogamatias\funciones.h
+
+1494516005 source:c:\users\alumno\desktop\quirogamatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
