@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493908715 source:c:\users\alumno\desktop\quirogamatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1493909402 c:\users\alumno\desktop\quirogamatias\funciones.h
+
+1493909414 source:c:\users\alumno\desktop\quirogamatias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494495612 source:c:\users\marce y coco\downloads\quirogamatias\quirogamatias\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1494495490 c:\users\marce y coco\downloads\quirogamatias\quirogamatias\funciones.h
+
+1494495338 source:c:\users\marce y coco\downloads\quirogamatias\quirogamatias\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
