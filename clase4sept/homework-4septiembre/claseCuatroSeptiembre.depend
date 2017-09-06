@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504648092 source:d:\documents and settings\administrador\escritorio\nuevo maletín\clasescursada\clasecuatroseptiembre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504646882 d:\documents and settings\administrador\escritorio\nuevo maletín\clasescursada\clasecuatroseptiembre\funciones.h
+
+1504646882 source:d:\documents and settings\administrador\escritorio\nuevo maletín\clasescursada\clasecuatroseptiembre\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
