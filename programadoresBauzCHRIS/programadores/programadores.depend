@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1505745500 source:c:\users\alumno\desktop\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1505746046 source:c:\users\alumno\desktop\programadores\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505738983 c:\users\alumno\desktop\programadores\funciones.h
+
+1505842208 source:c:\users\cris\desktop\programadores\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505842481 c:\users\cris\desktop\programadores\funciones.h
+
+1505842032 source:c:\users\cris\desktop\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1505911030 source:c:\users\alumno\desktop\archivos-varios-master\sielach cristian\programadores\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505842726 c:\users\alumno\desktop\archivos-varios-master\sielach cristian\programadores\funciones.h
+
+1505842726 source:c:\users\alumno\desktop\archivos-varios-master\sielach cristian\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1505911032 source:e:\nueva carpeta (2)\programadores\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505842726 e:\nueva carpeta (2)\programadores\funciones.h
+
+1505842726 source:e:\nueva carpeta (2)\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
+1505911032 source:e:\nueva carpeta (3)\nueva carpeta (2)\programadores\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"funciones.h"
+
+1505842726 e:\nueva carpeta (3)\nueva carpeta (2)\programadores\funciones.h
+
+1505917130 source:e:\nueva carpeta (3)\nueva carpeta (2)\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"funciones.h"
+
