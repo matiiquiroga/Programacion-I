@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507129070 source:d:\1a_pp_quiroga_matias\quiroga_matias_pp_1a\ppfunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ppFunciones.h"
+
+1507128736 d:\1a_pp_quiroga_matias\quiroga_matias_pp_1a\ppfunciones.h
+
+1507129070 source:d:\1a_pp_quiroga_matias\quiroga_matias_pp_1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ppFunciones.h"
+
