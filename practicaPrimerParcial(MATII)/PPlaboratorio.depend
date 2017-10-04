@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1507156951 source:d:\documents and settings\administrador\escritorio\workspace\pplaboratorio\funcionesparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesParcial.h"
+
+1507157283 d:\documents and settings\administrador\escritorio\workspace\pplaboratorio\funcionesparcial.h
+
+1507157012 source:d:\documents and settings\administrador\escritorio\workspace\pplaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesParcial.h"
+
+1507158715 source:d:\documents and settings\administrador\escritorio\workspace\practicaprimerparcial(matii)\funcionesparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesParcial.h"
+
+1507157283 d:\documents and settings\administrador\escritorio\workspace\practicaprimerparcial(matii)\funcionesparcial.h
+
+1507157012 source:d:\documents and settings\administrador\escritorio\workspace\practicaprimerparcial(matii)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesParcial.h"
+
