@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1505746268 source:c:\users\alumno\desktop\programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1507054395 source:d:\documents and settings\administrador\escritorio\workspace\programadoresabmmatii\programadoresabm(matii)\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507055766 d:\documents and settings\administrador\escritorio\workspace\programadoresabmmatii\programadoresabm(matii)\funciones.h
+
+1507054507 source:d:\documents and settings\administrador\escritorio\workspace\programadoresabmmatii\programadoresabm(matii)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"funciones.h"
+
