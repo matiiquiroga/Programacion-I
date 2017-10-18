@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1507850112 source:d:\documents and settings\administrador\escritorio\workspace\matiasquiroga\funcionesprimerparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesPrimerParcial.h"
+
+1507850042 d:\documents and settings\administrador\escritorio\workspace\matiasquiroga\funcionesprimerparcial.h
+
+1507850042 source:d:\documents and settings\administrador\escritorio\workspace\matiasquiroga\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesPrimerParcial.h"
+
+1508349679 source:d:\documents and settings\administrador\escritorio\workspace\stuffs_pp\1a_pp_quiroga_matias\funcionesprimerparcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesPrimerParcial.h"
+
+1508280551 d:\documents and settings\administrador\escritorio\workspace\stuffs_pp\1a_pp_quiroga_matias\funcionesprimerparcial.h
+
+1508349610 source:d:\documents and settings\administrador\escritorio\workspace\stuffs_pp\1a_pp_quiroga_matias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesPrimerParcial.h"
+
