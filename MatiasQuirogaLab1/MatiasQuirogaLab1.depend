@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1582719664 source:d:\matiasquirogalab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582728264 source:d:\matiasquirogalab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"computer.h"
+	"parser.h"
+
+1582727765 source:d:\matiasquirogalab1\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"parser.h"
+	"LinkedList.h"
+	"computer.h"
+
+1582725021 source:d:\matiasquirogalab1\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"computer.h"
+	"LinkedList.h"
+
+1582723232 d:\matiasquirogalab1\computer.h
+
+1582719637 d:\matiasquirogalab1\linkedlist.h
+
+1582727768 d:\matiasquirogalab1\parser.h
+	"LinkedList.h"
+
+1582774232 source:c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\computer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"computer.h"
+	"LinkedList.h"
+
+1582774302 c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\computer.h
+
+1582719637 c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\linkedlist.h
+
+1582719664 source:c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1582774292 source:c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"computer.h"
+	"parser.h"
+
+1582727768 c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\parser.h
+	"LinkedList.h"
+
+1582774332 source:c:\users\alex\desktop\workspace\matiasquirogalab1\matiasquirogalab1\parser.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"parser.h"
+	"LinkedList.h"
+	"computer.h"
+
